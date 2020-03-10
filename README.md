@@ -4,8 +4,8 @@
 
 <br>
 
-1 – Selecione todos os ids, nomes e sobremedos de empregados,
-que estajam nas faixas de salários de 0 a 2000 e maiores ou iguais a 5000.
+1 – Selecione todos os ids, nomes e sobrenomes de empregados,
+que estejam nas faixas de salários de 0 a 2000 e maiores ou iguais a 5000.
 
 SELECT EMPLOYEE_ID, FIRST_NAME, LAST_NAME, SALARY
 FROM EMPLOYEES
