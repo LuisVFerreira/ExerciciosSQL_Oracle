@@ -1,6 +1,8 @@
 # ExerciciosSQL_Oracle
 
-## Exercícios de SQL no Oracle.
+## Exercícios de SQL no Oracle (utilizando o Schema HR)
+
+<br>
 
 1 – Selecione todos os ids, nomes e sobremedos de empregados,
 que estajam nas faixas de salários de 0 a 2000 e maiores ou iguais a 5000.
@@ -10,6 +12,7 @@ FROM EMPLOYEES
 WHERE SALARY BETWEEN 0 AND 2000
 OR SALARY >= 5000
 
+<br>
 
 2 – Selecione todos os ids e nomes de departamentos,
 o id do gerente do departamento que estejam no id de locais entre 1500 a 2000;
