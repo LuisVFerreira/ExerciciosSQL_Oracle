@@ -2,6 +2,8 @@
 
 ## Exercícios de SQL no Oracle (utilizando o Schema HR)
 
+Dois exercícios resolvidos de SQL.
+
 <br>
 
 1 – Selecione todos os ids, nomes e sobrenomes de empregados,
