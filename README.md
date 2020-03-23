@@ -1,8 +1,6 @@
 # ExerciciosSQL_Oracle
 
-## Exercícios de SQL no Oracle (utilizando o Schema HR)
-
-Dois exercícios resolvidos de SQL:
+### Dois exercícios de SQL no Oracle (utilizando o Schema HR)
 
 <br>
 
