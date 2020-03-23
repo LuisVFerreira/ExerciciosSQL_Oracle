@@ -2,7 +2,7 @@
 
 ## Exercícios de SQL no Oracle (utilizando o Schema HR)
 
-Dois exercícios resolvidos de SQL.
+Dois exercícios resolvidos de SQL:
 
 <br>
 
